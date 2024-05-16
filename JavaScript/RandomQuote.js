@@ -5,6 +5,7 @@ const quotes = [
     "Eat Trash, Die Fast.  - Racoon",
     "Never Fear, I AM HERE!  - All Might",
     "What a world you live in. -Me",
+    "Life is not measured by the number of breaths you take, but by the moments that take your breath away. - Anonymous"
 ];
 
 // Function to update quote
